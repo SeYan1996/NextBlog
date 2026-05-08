@@ -1,3 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<svg
+  width="44"
+  height="44"
+  viewBox="0 0 64 64"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Muji Sean Lab logo"
+>
+  <defs>
+    <linearGradient id="mujiSeanGradient" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#6366F1" />
+      <stop offset="55%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#EC4899" />
+    </linearGradient>
+  </defs>
+
+  <rect x="6" y="6" width="52" height="52" rx="16" fill="url(#mujiSeanGradient)" />
+  <rect x="6" y="6" width="52" height="52" rx="16" stroke="#ffffff" stroke-opacity="0.18" />
+
+  <path
+    d="M45 20C42.8 17.7 39.6 16.4 35.8 16.4C30 16.4 25.8 19.5 25.8 24.3C25.8 28.7 29 30.9 34.8 32.2C39.2 33.1 41 34.1 41 36.4C41 39 38.6 40.8 34.5 40.8C30.8 40.8 27.6 39.4 25.2 36.9L20.7 41.2C24.2 45 28.9 47 34.4 47C42.1 47 47.8 43.2 47.8 36.1C47.8 29.8 43.5 27.1 36.8 25.6C33 24.8 31.1 23.9 31.1 21.8C31.1 19.7 33 18.2 36.2 18.2C38.8 18.2 41.1 19.1 42.9 20.8L45 20Z"
+    fill="#ffffff"
+  />
+
+  <circle cx="18.5" cy="46.5" r="3.3" fill="#ffffff" fill-opacity="0.9" />
+</svg>
